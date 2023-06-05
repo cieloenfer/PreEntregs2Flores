@@ -1,0 +1,8 @@
+body{
+    background-image:url(../PREentregaFloresjs2vuelta/images/pais.jpg);
+    background-size: cover;
+    position: relative;
+   min-height: 100vh;
+   display: grid;
+   place-items: center;
+  }
